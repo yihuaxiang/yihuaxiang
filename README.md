@@ -11,4 +11,3 @@
 
 - 🔭 I live in Beijing and work as a [Software Engineer 👨‍💻](). 
 - 😎 I am also a [Blogger 📝](https://z.wiki).
-- 📫 How to reach me: fudongdonguestc@gmail.com.
